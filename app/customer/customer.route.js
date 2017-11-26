@@ -1,6 +1,7 @@
 (function() {
  
     angular.module('app.customer').config(function($urlRouterProvider, $stateProvider,){
+        
         $urlRouterProvider.otherwise('/');
         $stateProvider.state('customer',{
             url: '/',
