@@ -6,6 +6,11 @@
     // But you have to assign everything in this variable. 
     // Because service will create instance by default and use that as a base object.
 
+    // Service is a kind of Singleton Object. 
+    // The Object return from Service will be same for all controller. 
+    // It can be used when you want to have single object for entire application. 
+    // Eg: Authenticated user details.
+
     function customerDataService(){
 
         this.sayHello = sayHello
