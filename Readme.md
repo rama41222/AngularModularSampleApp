@@ -17,3 +17,6 @@ I followed the LIFT principle
 
 * To install http-server run the following command
 1. npm install -g http-server
+
+* To install bower run the following command
+1. npm install -g bower
