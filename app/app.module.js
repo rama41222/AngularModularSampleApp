@@ -1,4 +1,7 @@
 (function(){
     'use strict'
-    angular.module('app',['app.customer'])
+    angular.module('app',[
+        'app.core',
+        'app.customer'
+    ])
 })()
