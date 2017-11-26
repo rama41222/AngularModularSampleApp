@@ -1,4 +1,4 @@
-* This is a sample application used to show how an app can be modularized into simple components.
+This is a sample application used to show how an app can be modularized into simple components.
 
 I followed the LIFT principle
 
