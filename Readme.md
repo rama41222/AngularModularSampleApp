@@ -1,0 +1,1 @@
+This is a sample application used to show how an app can be modularized into simple components.
