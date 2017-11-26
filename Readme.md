@@ -7,9 +7,10 @@ I followed the LIFT principle
 * F - Flat file structure
 * T - Try to stay dry (Don't repeat yourself)
 
-* Read more at Article at : https://rama41222.blogspot.com/2017/11/javascript-closures-why-do-we-need-to.html
+Read more at Article at : https://rama41222.blogspot.com/2017/11/javascript-closures-why-do-we-need-to.html
 
-* How to use the app
+How to use the app
+__________________
 
 1. git clone https://github.com/rama41222/AngularModularSampleApp.git
 2. bower install
