@@ -12,7 +12,7 @@ I followed the LIFT principle
 * How to use the app
 
 1. git clone https://github.com/rama41222/AngularModularSampleApp.git
-2. npm install
+2. bower install
 3. http-server ./AngularModularSampleApp
 
 * To install http-server run the following command
